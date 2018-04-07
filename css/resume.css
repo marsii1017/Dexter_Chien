@@ -12,7 +12,8 @@ body {
   body {
     padding-top: 0;
     padding-left: 17rem; } }
-
+img{width:100px; height:100px;}
+#photo{border:1px solid;}
 h1,
 h2,
 h3,
